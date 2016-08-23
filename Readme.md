@@ -1,2 +1,2 @@
-## Sample projects
-a set of  quickstart sample projects
+## Sample maven project
+sample java project using maven
